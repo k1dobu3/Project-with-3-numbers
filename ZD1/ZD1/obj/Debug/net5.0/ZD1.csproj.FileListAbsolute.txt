@@ -1,0 +1,16 @@
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.csproj.AssemblyReference.cache
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.AssemblyInfoInputs.cache
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.AssemblyInfo.cs
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.exe
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.deps.json
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.runtimeconfig.json
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.runtimeconfig.dev.json
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.dll
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ref\ZD1.dll
+C:\Users\nvrsk\source\repos\ZD1\ZD1\bin\Debug\net5.0\ZD1.pdb
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.dll
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ref\ZD1.dll
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.pdb
+C:\Users\nvrsk\source\repos\ZD1\ZD1\obj\Debug\net5.0\ZD1.genruntimeconfig.cache
